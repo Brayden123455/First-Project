@@ -1,0 +1,83 @@
+.titleSection {
+    text-align: center;
+    font-weight: bold;
+    background-image: url(earth-gb04c035cb_1920.jpg);
+    height: 50rem;
+    width: 100%;
+    color: #fff;
+}
+
+
+.textDiv h1 {
+    font-size: 5rem;
+    margin: 0;
+}
+
+.textDiv h2 {
+    font-size: 2.5rem;
+    margin: 0.5rem;
+}
+
+.button {
+    background-color: #fff;
+    border: none;
+    color: black;
+    padding: 20px 40px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 24px;
+    border-radius: 20px;
+    font-weight: bold;
+}
+
+.button a {
+    text-decoration: none;
+    color: black;
+}
+
+.textDiv {
+    padding-top: 225px;
+
+}
+
+.navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-image: url(earth-gb04c035cb_1920.jpg);
+}
+
+.navbar li {
+    float: right;
+}
+
+.navbar li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.navbar li a:hover {
+    background-color: blue;
+}
+
+.recentPosts h2 {
+    font-size: 5rem;
+    text-align: center;
+    font-weight: bold;
+}
+
+
+.recentPosts ul {
+    list-style-type: none;
+    font-weight: bold;
+    font-size: 2rem;
+    display: flex;
+    justify-content: row;
+    justify-content: space-evenly;
+}
